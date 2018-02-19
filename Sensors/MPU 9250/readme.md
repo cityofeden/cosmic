@@ -1,11 +1,15 @@
+#IMU MPU9250
+
 Enable your I2C Communication
 
 Make the wiring 
+```
 mpu9250	Raspberry Pi
 SDA -> 		SDA
 SCL->		SCL
 VCC->		3volt
 Gnd -> 		GND
+```
 
 ## How to install.
 Go to Terminal
