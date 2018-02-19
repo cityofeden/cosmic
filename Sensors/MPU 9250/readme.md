@@ -5,10 +5,10 @@ Enable your I2C Communication
 Make the wiring 
 ```
 mpu9250	Raspberry Pi
-SDA -> 		SDA
-SCL->		SCL
-VCC->		3volt
-Gnd -> 		GND
+SDA-> 		SDA
+SCL->		  SCL
+VCC->		  3 V
+Gnd-> 		GND
 ```
 
 ## How to install.
