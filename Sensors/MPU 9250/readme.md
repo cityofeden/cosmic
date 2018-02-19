@@ -6,8 +6,8 @@ Make the wiring
 ```
 mpu9250	Raspberry Pi
 SDA-> 		SDA
-SCL->		  SCL
-VCC->		  3 V
+SCL->		 SCL
+VCC->		 3 V
 Gnd-> 		GND
 ```
 
