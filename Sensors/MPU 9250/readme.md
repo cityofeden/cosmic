@@ -1,4 +1,4 @@
-#IMU MPU9250
+## IMU MPU9250
 
 Enable your I2C Communication
 
