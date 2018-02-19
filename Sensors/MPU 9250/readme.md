@@ -1,4 +1,4 @@
-## IMU MPU9250
+# IMU MPU9250
 
 Enable your I2C Communication
 
@@ -39,7 +39,7 @@ So it will show the
 
 
 
-# CREATED BY
+### CREATED BY
 @AmmarChauhan for Cosmic IoT / https://cosmiciot.io
 _Created using the EDEN Distributed Network / https://cityofeden.io_
 _Distributed with MIT Open Licence_
